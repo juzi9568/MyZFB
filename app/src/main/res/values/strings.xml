@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">致富宝</string>
+    <string name="bottom_bar_article">资讯</string>
+    <string name="bottom_bar_topic">话题</string>
+</resources>

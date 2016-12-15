@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- bottombar tab configuration -->
+<tabs>
+    <tab
+        icon="@drawable/ic_article"
+        id="@+id/tab_article"
+        title="@string/bottom_bar_article" />
+    <tab
+        icon="@drawable/ic_topic"
+        id="@+id/tab_topic"
+        title="@string/bottom_bar_topic" />
+</tabs>
